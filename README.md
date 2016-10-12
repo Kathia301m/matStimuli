@@ -1,2 +1,2 @@
-# Stimuli
-Common repository for all code for generating stimuli for the gkaguirrelab
+# matStimuli
+Toolbox for creating and displaying various visual stimuli in Matlab
